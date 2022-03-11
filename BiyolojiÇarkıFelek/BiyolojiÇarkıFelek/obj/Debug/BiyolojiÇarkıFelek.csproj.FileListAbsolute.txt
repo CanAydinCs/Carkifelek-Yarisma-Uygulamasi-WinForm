@@ -1,0 +1,22 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\bin\Debug\BiyolojiÇarkıFelek.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\bin\Debug\BiyolojiÇarkıFelek.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\bin\Debug\BiyolojiÇarkıFelek.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.SoruFormu.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.SoruEkle.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\bin\Debug\BiyolojiÇarkıFelek.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\bin\Debug\BiyolojiÇarkıFelek.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\bin\Debug\BiyolojiÇarkıFelek.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.SoruEkle.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.SoruFormu.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\önemli projeler\Biyoloji\BiyolojiÇarkıFelek\BiyolojiÇarkıFelek\obj\Debug\BiyolojiÇarkıFelek.pdb

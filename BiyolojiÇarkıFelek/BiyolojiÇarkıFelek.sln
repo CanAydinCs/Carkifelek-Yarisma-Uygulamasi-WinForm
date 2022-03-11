@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiyolojiÇarkıFelek", "BiyolojiÇarkıFelek\BiyolojiÇarkıFelek.csproj", "{43BFD31A-326B-4874-9C68-063D54022814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43BFD31A-326B-4874-9C68-063D54022814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BFD31A-326B-4874-9C68-063D54022814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BFD31A-326B-4874-9C68-063D54022814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BFD31A-326B-4874-9C68-063D54022814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C22D1F8-14C4-46BD-A328-B00F7DC901F9}
+	EndGlobalSection
+EndGlobal
